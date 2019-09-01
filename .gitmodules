@@ -1,0 +1,16 @@
+[submodule "haskellsequences"]
+	path = haskellsequences
+	url = https://github.com/nchiki/haskellsequences
+	branch = master
+[submodule "haskellcrypto"]
+	path = haskellcrypto
+	url = https://github.com/nchiki/haskellcrypto
+	branch = master
+[submodule "haskellcalculus"]
+	path = haskellcalculus
+	url = https://github.com/nchiki/haskellcalculus
+	branch = master
+[submodule "haskellmacroprocessor"]
+	path = haskellmacroprocessor
+	url = https://github.com/nchiki/haskellmacroprocessor
+	branch = master
